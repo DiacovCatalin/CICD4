@@ -82,4 +82,4 @@ CICD4/
 ---
 
 **Laborator 4 - Publicarea cu GitHub Pages**  
-*Creat de DiacovCatalin © 2024*
+*Creat de DiacovCatalin © 2025*
